@@ -59,14 +59,13 @@ currently_preparing:
 
 - ✅ Microsoft Certified: Azure Fundamentals (**AZ-900**)
 - ✅ Microsoft Certified: Azure Administrator Associate (**AZ-104**)
-- ✅ Microsoft Certified: Administering Windows Server Hybrid Core Infrastructure (**AZ-800**)
+- ✅ Microsoft Certified: Windows Server Hybrid Administrator Associate (**AZ-800 / AZ-801**)
 - ✅ Microsoft Certified: Identity and Access Administrator Associate (**SC-300**)
 - ✅ Microsoft Certified: Endpoint Administrator Associate (**MD-102**)
 - ✅ Fortinet NSE 1, NSE 2, NSE 3
 
 ### Certification Roadmap
 
-- 🔄 AZ-801 — Configuring Windows Server Hybrid Advanced Services
 - 🔄 AZ-700 — Designing and Implementing Microsoft Azure Networking Solutions
 - 🔄 AZ-305 — Designing Microsoft Azure Infrastructure Solutions
 - 🔄 Terraform Associate — Infrastructure as Code
