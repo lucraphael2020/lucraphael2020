@@ -45,14 +45,16 @@ current_certifications:
   - NSE 2
   - NSE 3
 currently_preparing:
-  - AZ-801
   - AZ-700
   - AZ-305
   - Terraform Associate
   - MS-102
   - SC-500
   - SC-100
+  - AZ-400
   - RHCSA
+  - CKA
+  
 ```
 
 ### Certifications Earned
