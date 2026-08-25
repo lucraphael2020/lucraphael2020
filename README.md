@@ -38,7 +38,7 @@ focus:
 current_certifications:
   - AZ-900
   - AZ-104
-  - AZ-800
+  - AZ-800 / AZ-801
   - SC-300
   - MD-102
   - NSE 1
