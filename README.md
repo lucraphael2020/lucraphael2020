@@ -4,7 +4,7 @@
 
 # 👋 Welcome / Bienvenue
 
-### Azure Infrastructure | Microsoft 365 | Hybrid Identity | Security
+### Azure Cloud & Infrastructure Engineer | Terraform · Azure DevOps · PowerShell · Microsoft Entra ID · Microsoft 365Sécurité
 
 
 
