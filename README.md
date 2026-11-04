@@ -4,7 +4,7 @@
 
 # 👋 Welcome / Bienvenue
 
-### Azure Cloud & Infrastructure Engineer | Terraform · Azure DevOps · PowerShell · Microsoft Entra ID · Microsoft 365Sécurité
+### Azure Cloud & Infrastructure Engineer | Terraform · Azure DevOps · PowerShell · Microsoft Entra ID · Microsoft 365 · Sécurité
 
 
 
